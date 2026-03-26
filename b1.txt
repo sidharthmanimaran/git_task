@@ -1,1 +1,2 @@
 master
+this file b1.txt is edited by first branch
